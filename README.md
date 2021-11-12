@@ -1,7 +1,10 @@
 ## Olá, me chamo Nathália Bacalhau, entusiasta em tecnologia!
 🎲Analista de Dados Júnior
+
 🎓Graduanda em Engenharia da Computação
+
 💻Cursando técnico em Desenvolvimento em Sistemas
+
 <div align="center">
   <a href="https://github.com/nathaliabacalhau27">
   <img height="180em" width = "420" src="https://github-readme-stats.vercel.app/api?username=nathaliabacalhau27&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
