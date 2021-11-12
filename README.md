@@ -16,10 +16,9 @@
 	<img align="center" alt="Nath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Nath-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-	
-![alt text](https://github.com/nathaliabacalhau27/nathaliabacalhau27/blob/main/ezgif-1-2cad53f4c72e.gif?raw=true
-  
+  <img align="right" alt="Nath-gif" height="200" style="border-radius:50px;" src="https://github.com/nathaliabacalhau27/nathaliabacalhau27/blob/main/ezgif-1-2cad53f4c72e.gif?raw=true">
+
+
 </div>
   
   ##
