@@ -18,7 +18,8 @@
   <img align="center" alt="Nath-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 	
-  <img align="right" alt="Nath-gif" height="200" style="border-radius:50px;" src="">
+![alt text](https://github.com/nathaliabacalhau27/nathaliabacalhau27/blob/main/ezgif-1-2cad53f4c72e.gif?raw=true
+  
 </div>
   
   ##
