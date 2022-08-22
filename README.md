@@ -1,7 +1,7 @@
 ## Olá, me chamo Nathália Bacalhau, entusiasta em tecnologia!
 <h4>🎲Analista de Dados Júnior<h4>
 <h4>🎓Graduanda em Engenharia da Computação<h4>
-<h4>💻Cursando técnico em Desenvolvimento em Sistemas<h4>
+<h4>💻Cursando tecnológo em Sistemas para Internet<h4>
 
 <div align="center">
   <a href="https://github.com/nathaliabacalhau27">
